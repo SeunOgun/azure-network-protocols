@@ -236,9 +236,4 @@ _Because we are currently using RDP to run the virtual machine, anything and eve
 <img src="https://i.imgur.com/bfOrHLb.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <hr>
-
-<h1><p align=center>(ﾉ^ヮ^)ﾉ*:・ﾟ✧ COMPLETE! ✧ﾟ・:*╰(^ヮ^╰)</p></h1>
-
-<p align=right>DELETE **EVERYTHING!** IN AZURE TO SAVE CREDITS!<br>
-If you don't know how to, click <a href="https://github.com/JTYKolesar/azure-start/blob/main/README.md#bonus-delete-all-resources-in-azure">HERE</a>
-</p>
+<p align=center>DELETE EVERYTHING IN AZURE TO SAVE CREDITS!<br>
